@@ -1,0 +1,22 @@
+.main-content {
+    width: 300px;
+    margin: 20px auto;
+    float: left;
+}
+.big {
+    width: 204px;
+}
+.medium {
+    width: 104px;
+}
+.small {
+    width: 53px;
+}
+h2 {
+    text-align: right;
+    padding: 20px;
+    padding-right: 180px;
+}
+.clear {
+    clear: both;
+}
